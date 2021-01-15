@@ -15,6 +15,7 @@ origins of these phrases, [please open a PR](CONTRIBUTING.md)!
 | Canonical\* | When | What | Terms | Source (if needed) |
 | ----------- | ---- | ---- | ----- |--------------------|
 |    | July 2019 | [CDF faq defines continuous delivery](https://github.com/cdfoundation/faq#what-is-continuous-delivery-cd) | Continuous Delivery, Continuous Integration | [cdfoundation/faq](https://github.com/cdfoundation/faq/commit/e1c2ea472284422ff300c948f13fb37de528d926)|
+|    | March 2019 | [CDF created](https://cd.foundation/announcement/2019/03/12/the-linux-foundation-announces-new-foundation-to-support-continuous-delivery-collaboration/) | | |
 |    | Dec 2016 | [First Wikipedia entry for CI/CD](https://en.wikipedia.org/w/index.php?title=CI/CD&oldid=756752283) | CI/CD | |
 |    | July 2014 | [Earliest article attempting to explain the origin of "CI/CD"](https://blogs.oracle.com/ravello/continuous-integration-deployment-test-automation) | CI/CD | |
 |    | 2014 | [CI/CD starts appearing as a search term](https://trends.google.com/trends/explore?date=all&q=ci%2Fcd) | CI/CD | |
