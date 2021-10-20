@@ -56,8 +56,8 @@ Sources: [Continuous Delivery (2010)](https://www.oreilly.com/library/view/conti
 ## CI/CD
 
 **CI/CD**: A phrase with no clear origin which popped into existence around 2014, which combines
-[Continuous Integration (CI)](#continuous-integration] with either [Continuous Delivery (CD)](#continuous-delivery) or
-[Continuous Deployment](#continuous-deployment]. The phrase is used to refer to tools and practices which encompass one
+[Continuous Integration (CI)](#continuous-integration) with either [Continuous Delivery (CD)](#continuous-delivery) or
+[Continuous Deployment](#continuous-deployment). The phrase is used to refer to tools and practices which encompass one
 or more of: Continuous Integration, Continuous Delivery and Continuous Deployment.
 
 Sources: [Google trends](https://trends.google.com/trends/explore?date=all&q=ci%2Fcd),
