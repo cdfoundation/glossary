@@ -35,7 +35,8 @@ How does Continuous Delivery relate to:
 
 **Continuous Deployment**: Working software is released to users automatically on every commit.
 
-Sources: [Timothy Fitz](http://timothyfitz.com/2009/02/08/continuous-deployment/)
+Sources: [Timothy Fitz](http://timothyfitz.com/2009/02/08/continuous-deployment/),
+[Continuous Integration (2007)](https://martinfowler.com/books/duvall.html)
 
 How does Continuous Deployment relate to:
 * [Continuous Delivery](#continuous-delivery): Continuous Deployment is made possible by Continuous Delivery -
